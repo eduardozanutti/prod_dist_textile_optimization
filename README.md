@@ -1,4 +1,9 @@
-# Otimização da Produção e Distribuição na Cadeia de Suprimentos de Moda  
+# Otimização da Produção e Distribuição na Cadeia de Suprimentos de Moda
+
+[![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)]()
+[![License](https://img.shields.io/badge/license-MIT-green.svg)]()
+[![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-orange)]()
+
 ## Uma Abordagem Multiobjetivo
 
 Este repositório contém os códigos, modelos matemáticos e experimentos computacionais desenvolvidos na dissertação de mestrado:
