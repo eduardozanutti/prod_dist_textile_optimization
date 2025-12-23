@@ -1,0 +1,14 @@
+# src/config/config.yaml
+data_paths:
+  raw: data/raw
+  processed: data/processed
+  refined: data/refined
+
+# Configurações de otimização
+optimization:
+  solver: gurobi  # Ou 'cbc' para alternativas open-source
+  tolerance: 1e-6
+
+# Configuração de licença Gurobi (edite o path para o seu arquivo local)
+gurobi:
+  license_file: C:/Users/eduar/gurobi_license/gurobi.lic  # Exemplo: /opt/gurobi/gurobi.lic ou C:\gurobi\gurobi.lic

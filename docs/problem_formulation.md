@@ -1,3 +1,5 @@
+## Problem Formulation
+
 ### Sets
 
 - $S$: conjunto de SKUs (unidades de estoque, como tamanhos de um material)  
